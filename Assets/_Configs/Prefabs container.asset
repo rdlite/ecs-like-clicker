@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2868eb4979f43e740a32dfd29464ef59, type: 3}
+  m_Name: Prefabs container
+  m_EditorClassIdentifier: 
+  BusinessPanelPrefab: {fileID: 2741435096192120190, guid: bb2f5c458f650ca4d83bc99f39e16043, type: 3}
+  BusinessUpgradeButton: {fileID: 6141355782154861443, guid: 40cfcc852a81c4d48a757d54be4ce270, type: 3}

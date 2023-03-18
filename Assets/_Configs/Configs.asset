@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 236cf9d7ba7c4134486bd301b9d63b40, type: 3}
+  m_Name: Configs
+  m_EditorClassIdentifier: 
+  Businesses:
+  - {fileID: 11400000, guid: b43f4c8d7da19f24bb4027b08f2d9e71, type: 2}
+  - {fileID: 11400000, guid: c526a34a70ffc0f41b703a4ba179bbd7, type: 2}
+  - {fileID: 11400000, guid: b7b97956747864549b2af60c6e59d082, type: 2}
+  - {fileID: 11400000, guid: 202e080187b3acc418f6880aa2b8880d, type: 2}
+  - {fileID: 11400000, guid: c55f50da33140a24f8026bb41bd96dfe, type: 2}
+  BackgroundSavingTimer: 1.5
+  DeactivatedBusinessPanelAlpha: 0.6
+  PrefabsContainer: {fileID: 11400000, guid: e5f79f1350ddc8246869d5cac9373588, type: 2}
